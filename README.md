@@ -1,2 +1,2 @@
 # oimao
-oimao code
+My solution for [oimao](http://oimao.cn/)
