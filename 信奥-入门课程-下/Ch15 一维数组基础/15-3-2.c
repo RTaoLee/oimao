@@ -9,7 +9,7 @@ int main(){
     lee=0;
     for(i=0;i<10;i++)
     {
-        if(h+30>a[i])
+        if(h+30>=a[i])
         {
             lee++;
         }
